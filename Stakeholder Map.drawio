@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-23T22:32:12.075Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="XqHXYbEbQk2kvIr-KlD7" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-23T22:44:44.867Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="5lNqh27wtvRWKMCX7WTM" version="14.4.2" type="github">
   <diagram id="gquHhQougr0nqFLeO9Sz" name="Page-1">
     <mxGraphModel dx="2200" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -27,6 +27,15 @@
         </mxCell>
         <mxCell id="2Q1vHZmveYghD5BYPz7u-380" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="2Q1vHZmveYghD5BYPz7u-3" target="2Q1vHZmveYghD5BYPz7u-6">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2Q1vHZmveYghD5BYPz7u-391" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="2Q1vHZmveYghD5BYPz7u-3" target="2Q1vHZmveYghD5BYPz7u-390">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="550" />
+              <mxPoint x="220" y="550" />
+              <mxPoint x="220" y="613" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="2Q1vHZmveYghD5BYPz7u-3" value="4.Health Organisations" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="230" y="430" width="140" height="80" as="geometry" />
@@ -149,6 +158,9 @@
         </mxCell>
         <mxCell id="2Q1vHZmveYghD5BYPz7u-387" value="Vaccinators to Patients" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="230" y="10" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="2Q1vHZmveYghD5BYPz7u-390" value="WHO" style="rounded=0;whiteSpace=wrap;html=1;direction=east;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="20" y="575" width="140" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
